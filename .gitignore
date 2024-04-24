@@ -3,3 +3,15 @@ target/
 dbt_packages/
 logs/
 venv/
+
+dag/.git
+dag/.env
+dag/.DS_Store
+dag/airflow_settings.yaml
+dag/__pycache__/
+dag/astro
+dag/.venv
+dag/airflow-webserver.pid
+dag/webserver_config.py
+dag/airflow.cfg
+dag/airflow.db
